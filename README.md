@@ -1,9 +1,5 @@
 # Recommend-events-in-social-network
-Built a collaborative filtering recommender system to enhance the user experience of an event-based social network 
-
-## Overview
-
-The system is designed to recommend events that match a user's interest by analyzing their past behavior and preferences.  
+Built a collaborative filtering recommender system to enhance the user experience of an event-based social network. The system is designed to recommend events that match a user's interest by analyzing their past behavior and preferences.
 
 ## Dataset
 
